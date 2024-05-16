@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, Version Control**
 
-- 📫 How to reach me **omydev23@gmail.com**
+- 📫 How to reach me **omymael1@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
