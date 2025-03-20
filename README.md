@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Omicodes</h1>
-<h3 align="center">Im a aspiring Software Engineer from the US, currently studying Software Engineering at WGU</h3>
+<h1 align="center">Hi 👋, I'm Omy Gonzalez</h1>
+<h3 align="center">Im a aspiring Software Engineer from the Orlando, FL, currently majoring in Software Engineering at Western Governors University</h3>
 
 <p align="left"> <a href="https://twitter.com/omicodes" target="blank"><img src="https://img.shields.io/twitter/follow/omicodes?logo=twitter&style=for-the-badge" alt="omicodes" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, Version Control**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **omymael1@hotmail.com**
 
