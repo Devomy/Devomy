@@ -50,7 +50,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devomy&show_icons=true&locale=en&layout=compact" alt="devomy" /></p>
-
 ###
 
